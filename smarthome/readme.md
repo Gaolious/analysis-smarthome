@@ -29,6 +29,8 @@ Header에는 총 24 byte로 구성되어 있음.
 | STR | INT | INT | INT | INT | INT | INT (0x000000) | 
 |로그인시<br/>얻는<br/>문자열|constraints.py|constraints.py|보내는측<br/>고정인듯?|받는측<br/>고정인듯?|에러유무<br/>flag|0x000000|
 
+### Packet Body
+JSON 평문
 
 ## Tools
 
